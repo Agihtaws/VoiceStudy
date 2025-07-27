@@ -1,6 +1,6 @@
 # VoiceStudy
 
-![Project Screenshot](https://i.ibb.co/3vZRkSm/voice-study-logo.png)
+![Project Screenshot](https://github.com/Agihtaws/VoiceStudy/blob/main/voicestudy-frontend/public/Screenshot%202025-07-27%20183814.png)
 
 ## 🎓 Educational Voice Assistant with AI-Powered Responses
 
