@@ -8,7 +8,8 @@ VoiceStudy is an innovative voice-based educational assistant that transforms ho
 
 ## 🌟 Live Demo
 
-[Watch the Demo Video on YouTube](https://youtu.be/demo-link)
+[![Watch the video](https://img.youtube.com/vi/ti5mrZnOsW8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ti5mrZnOsW8)
+
 
 ## ✨ Features
 
